@@ -1,0 +1,7 @@
+tqdm
+opencv-python
+torchvision==0.11.1
+timm==0.5.4
+pytorch==1.10.0
+scipy==1.7.3
+numpy==1.21.2
